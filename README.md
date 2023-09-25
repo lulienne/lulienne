@@ -51,4 +51,3 @@ Here are some ideas to get you started:
 ### Thanks for visiting! Let's collaborate and build something amazing together! 🌟
 ```
 
-Replace `[Your Full Name]`, `[IBM Deutschland GmbH](link-to-IBM-profile)`, `[FernUniversität in Hagen](link-to-University-profile)`, `[Accenture CAS GmbH](link-to-Accenture-profile)`, `[LinkedIn](link-to-LinkedIn-profile)`, `[Twitter](link-to-Twitter-profile)`, `[Website](link-to-Website)`, and `[Your Email Address]` with your actual information and links. This bio will give a good overview of your professional experience and interests for your GitHub profile.
