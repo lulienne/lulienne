@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌐 Passionate about pushing the boundaries of AI technology and delivering innovative solutions.
 
-🎓 Master's degrees in Applied Computer Science and Business Informatics specializing in software architecture, machine learning, and Natural Language Processing.
+🎓 Master's degrees in Practical Computer Science and Business Informatics specializing in software architecture, machine learning, and Natural Language Processing.
 
 ### Experience
 
