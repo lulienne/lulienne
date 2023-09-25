@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### Let's Connect 🌐
 
-- [LinkedIn](https://www.linkedin.com/in/lulienne-schiefelbein/))
+- [LinkedIn](https://www.linkedin.com/in/lulienne-schiefelbein/)
 
 ### Thanks for visiting! Let's collaborate and build something amazing together! 🌟
 
