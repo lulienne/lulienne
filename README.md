@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lulienne/lulienne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +38,7 @@ Here are some ideas to get you started:
 - 🌐 **Corporate Student - Technology Consultant** at Accenture
    - 📆 10/2015 – 06/2018
    - 🌆 Kaiserslautern, Germany & London, UK
-   - 💼 Focused on Technical Consultinf for Consumer Goods Industry and Salesforce CRM solutions.
+   - 💼 Focused on Technical Consulting for Consumer Goods Industry and Salesforce CRM solutions.
    - 📈 Use of artificial intelligence to predict out-of-stocks in retail stores in the bachelor's thesis.
 
 
@@ -49,5 +47,4 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/lulienne-schiefelbein/))
 
 ### Thanks for visiting! Let's collaborate and build something amazing together! 🌟
-```
 
