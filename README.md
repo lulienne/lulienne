@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Experience
 
-- 👨‍💼 **Managing Consultant & Architect** at [IBM Deutschland GmbH](link-to-IBM-profile)
+- 👨‍💼 **Managing Consultant & Architect** at IBM Deutschland GmbH
    - 📆 11/2018 – Present
    - 📌 Leading Java backend development for the electronic health record (ePA), implementing DevSecOps and SDLC practices, and mentoring junior team members.
    - 🌐 Contributed to AI projects involving NLP, OCR, and Named Entity Recognition, streamlining operations.
